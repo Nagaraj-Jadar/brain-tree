@@ -61,13 +61,13 @@ export function Footer() {
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0" />
                 <span className="text-sm text-gray-300">
-                  123 Education Street, Model Town, City - 123456
+                  Koppal Road Kinnal, Koppal - 583230
                 </span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 flex-shrink-0" />
-                <a href="tel:+911234567890" className="text-sm text-gray-300 hover:text-white">
-                  +91 12345 67890
+                <a href="tel:+919632310841" className="text-sm text-gray-300 hover:text-white">
+                  +91 9632310841
                 </a>
               </li>
               <li className="flex items-center gap-2">

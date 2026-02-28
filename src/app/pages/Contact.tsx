@@ -50,17 +50,17 @@ export function Contact() {
                   </div>
                   <h3 className="font-semibold text-[#1E3A8A] mb-2">Call Us</h3>
                   <a
-                    href="tel:+911234567890"
+                    href="tel:+919632310841"
                     className="text-gray-600 text-sm hover:text-[#22C55E] transition-colors"
                   >
-                    +91 12345 67890
+                    +91 9632310841
                   </a>
                   <br />
                   <a
-                    href="tel:+911234567891"
+                    href="tel:+919632310841"
                     className="text-gray-600 text-sm hover:text-[#22C55E] transition-colors"
                   >
-                    +91 12345 67891
+                    +91 9632310841
                   </a>
                 </div>
 

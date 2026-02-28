@@ -45,7 +45,7 @@ export function PrincipalSection() {
             </div>
 
             <div className="pt-4 border-t border-gray-300">
-              <p className="font-semibold text-[#1E3A8A] text-lg">Mrs. Priya Sharma</p>
+              <p className="font-semibold text-[#1E3A8A] text-lg">Mr. Karna Kattimani</p>
               <p className="text-gray-600">Principal, Brain Tree English Medium School</p>
               <p className="text-sm text-gray-500 mt-1">M.Ed., B.Ed. | 15+ Years in Education</p>
             </div>
